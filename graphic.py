@@ -43,7 +43,7 @@ pygame.draw.circle(screen, gold, (710,500),10)
 
 
 
-#change
+#chang
 
 pygame.display.update()
 
